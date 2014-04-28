@@ -1,4 +1,4 @@
-// idle.js (c) Alexios Chouchoulas 2009 http://www.bedroomlan.org/coding/detecting-ï¿½idleï¿½-and-ï¿½awayï¿½-timeouts-javascript
+	// idle.js (c) Alexios Chouchoulas 2009 http://www.bedroomlan.org/coding/detecting-ï¿½idleï¿½-and-ï¿½awayï¿½-timeouts-javascript
 // Released under the terms of the GNU Public License version 2.0 (or later).
  
 var _API_JQUERY = 1;

@@ -1,0 +1,12 @@
+{
+  "name": "OnIdle",
+  "main": "onIdle.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/TrkiSF2/onIdle",
+  "authors": [
+    "Trki <services@trki.sk>"
+  ],
+  "description": "onIdle library for firebase",
+  "license": "MIT",
+  "private": true
+}
